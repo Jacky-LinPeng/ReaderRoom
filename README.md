@@ -27,3 +27,6 @@ iOS 9.0+
 ![WechatIMG27](https://user-images.githubusercontent.com/15797691/129675615-4d9f47ad-e2a1-46a5-8eb6-4fb9489b9fbf.png)
 -->
 
+### MQTT配置修改
+<img width="300" alt="WX20211009-143639@2x" src="https://user-images.githubusercontent.com/15797691/136647138-4cd3804f-bf01-446d-9552-2be0d97717ff.png">
+<img width="300" alt="WX20211009-110551@2x" src="https://user-images.githubusercontent.com/15797691/136647095-d1d4790a-aa13-49ae-aceb-3973f851461c.png">
